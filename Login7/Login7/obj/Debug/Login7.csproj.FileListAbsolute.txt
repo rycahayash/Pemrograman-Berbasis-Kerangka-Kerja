@@ -1,0 +1,6 @@
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7.csproj.AssemblyReference.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\MainWindow.g.cs
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\App.g.cs
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7_MarkupCompile.cache
+C:\Users\Rycahaya\source\repos\Login7\Login7\obj\Debug\Login7_MarkupCompile.lref
