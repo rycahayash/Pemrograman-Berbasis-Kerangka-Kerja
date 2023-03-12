@@ -1,0 +1,16 @@
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\bin\Debug\The Cashier.exe.config
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\bin\Debug\The Cashier.exe
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\bin\Debug\The Cashier.pdb
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.csproj.AssemblyReference.cache
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\MainWindow.g.cs
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\App.g.cs
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier_MarkupCompile.cache
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier_MarkupCompile.lref
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\MainWindow.baml
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.g.resources
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The_Cashier.Properties.Resources.resources
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.csproj.GenerateResource.cache
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.csproj.CoreCompileInputs.cache
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.exe
+C:\Users\Rycahaya\source\repos\The Cashier\The Cashier\obj\Debug\The Cashier.pdb
