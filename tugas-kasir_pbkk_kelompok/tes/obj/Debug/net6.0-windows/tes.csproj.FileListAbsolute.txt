@@ -1,0 +1,54 @@
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\tes.exe
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\tes.deps.json
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\tes.runtimeconfig.json
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\tes.pdb
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.csproj.AssemblyReference.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.Form1.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.csproj.GenerateResource.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.AssemblyInfoInputs.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.AssemblyInfo.cs
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.csproj.CoreCompileInputs.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\refint\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.pdb
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.genruntimeconfig.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\ref\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.csproj.CopyComplete
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.FormMenuUtama.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.FormMasterKasir.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\tes\tes\obj\Debug\net6.0-windows\tes.FormMasterBarang.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\tes.exe
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\tes.deps.json
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\tes.runtimeconfig.json
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\tes.pdb
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.csproj.AssemblyReference.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.Form1.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.FormMasterBarang.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.FormMasterKasir.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.FormMenuUtama.resources
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.csproj.GenerateResource.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.AssemblyInfoInputs.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.AssemblyInfo.cs
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.csproj.CoreCompileInputs.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.csproj.CopyComplete
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\refint\tes.dll
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.pdb
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\tes.genruntimeconfig.cache
+E:\Kuliah\SEMESTER 6\Pemrograman Berbasis Kerangka Kerja\NCS_CASHIER\Source Code\tes\obj\Debug\net6.0-windows\ref\tes.dll
